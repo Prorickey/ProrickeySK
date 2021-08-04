@@ -1,0 +1,6 @@
+name: ProrickeySK
+author: Prorickey
+description: A useful Skript Addon
+main: me.prorickey.addon.Main
+depend: [Skript]
+version: 1.0.0
